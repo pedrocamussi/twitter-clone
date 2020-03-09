@@ -1,2 +1,1 @@
-# twitter-clone
-Just more one clone of twitter's layout. 
+Clonando a interface do Twitter utilizando CSS Flexbox
